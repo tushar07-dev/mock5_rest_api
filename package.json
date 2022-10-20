@@ -1,0 +1,22 @@
+{
+  "name": "mock5_rest_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tushar07-dev/mock5_rest_api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tushar07-dev/mock5_rest_api/issues"
+  },
+  "homepage": "https://github.com/tushar07-dev/mock5_rest_api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
